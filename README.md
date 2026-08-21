@@ -151,18 +151,17 @@ The application provides:
 - **Churn Probability**
 
 ## 🖥️ Application Screenshots
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](screenshots/image.png)
+![alt text](screenshots/image-1.png)
+![alt text](screenshots/image-2.png)
 
 ## 🚀 How to Run
-
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ## 🛠️ Tech Stack
-
 - 🐍 Python
 - 🐼 Pandas & NumPy
 - 📊 Matplotlib & Seaborn
@@ -171,7 +170,6 @@ streamlit run app.py
 - 💾 Pickle
 
 ## 📁 Project Structure
-
 ```text
 Customer-Churn-Prediction/
 │
@@ -187,3 +185,4 @@ Customer-Churn-Prediction/
 ├── pipe.pkl
 ├── requirements.txt
 └── README.md
+```
